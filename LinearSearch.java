@@ -34,3 +34,9 @@ public class LinearSearch {
         sc.close();
     }
 }
+
+// Example
+// Input: 40
+
+// Output:
+// Element found at index: 3
