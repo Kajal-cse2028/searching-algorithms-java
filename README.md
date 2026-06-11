@@ -7,6 +7,10 @@ Implementations of common searching algorithms in Java with explanations.
 
 - Linear Search  
 - Binary Search
+- Jump Search  
+- Interpolation Search  
+- Exponential Search  
+- Fibonacci Search 
 
 ---
 
